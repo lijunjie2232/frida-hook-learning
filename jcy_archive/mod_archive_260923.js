@@ -1,4 +1,4 @@
-// hook ads of con.viva.
+// hook ads of com.viva.note
 
 // frida debug test
 let PangleRewardVideoAnonymousClass1 = Java.use("com.bytedance.msdk.adapter.pangle.PangleRewardLoader$PangleRewardVideo$1");
