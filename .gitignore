@@ -1,3 +1,4 @@
 *.py
 *.java
 hook_js/
+frida-server*
